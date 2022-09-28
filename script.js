@@ -1,5 +1,5 @@
 // 1
-// let 
+// const
 
 
 // 2
@@ -7,7 +7,7 @@ let num = 20;
 
 
 // 3
-num = 15
+num = 15;
 
 
 // 4
@@ -49,4 +49,4 @@ let letters = "qwertyuiop";
 
 
 // b4
-console.log(letters[9]);
+console.log(letters[letters.length -1]);
